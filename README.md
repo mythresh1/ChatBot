@@ -1,2 +1,4 @@
 # ChatBot
-Chatbot is a  computer program designed to simulate conversation with human users, especially over the internet
+Chatbot is a  computer program designed to simulate conversation with human users, especially over the internet. 
+This project aims to develop a chatbot using Keras, natural language processing (NLP), and Python programming. The chatbot will serve as an interactive conversational system capable of understanding user inputs and providing human-like responses. By leveraging the capabilities of Keras, NLP techniques, and Python, the project aims to create a powerful and intelligent chatbot that can engage in meaningful conversations.
+The project begins with data collection and preprocessing. Conversational examples relevant to the chatbot's domain are gathered from various sources and cleaned to remove noise and irrelevant information. This dataset serves as the foundation for training and evaluating the chatbot.
